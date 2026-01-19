@@ -1,0 +1,50 @@
+.container-fluid{
+    background-color: rgb(148, 83, 83);
+}
+strong{
+    text-decoration: underline;
+}
+form{
+    background-color:rgb(148, 83, 83) ;
+    margin-top: 50px;
+}
+.carousel{
+    margin-bottom: 100px;
+}
+.modal-body{
+    background-color: rgb(196, 255, 205);
+}
+.accordion{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.accordion-button{
+    background-color: rgb(148, 83, 83);
+    
+}
+.gridbox{
+    display:grid;
+    grid-template-columns:40% 30% 40%;
+    grid-template-rows:auto;
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+.col{
+   margin-top: 50px;
+   margin-bottom: 100px;
+   padding-top:auto;
+   padding-bottom:auto;
+}
+.card1{
+ 
+  background-color: rgb(196, 238, 238);
+}
+.card2{
+    background-color: antiquewhite;
+}
+.card3{
+    background-color:rgb(171, 196, 242);
+}
